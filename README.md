@@ -20,7 +20,11 @@ Finalmente, se buscaba implementar técnicas de representación de documentos,
 principalmente en Modelo de Espacio Vectorial (VSM).
 
 **Librerías utilizadas**
+
 NLTK, Spark y META.
 
-**Pre _requisitos**
-Para usar Spark es necesario subir el dataset datasets en drive
+# **Pre _requisitos**
+
+- Para usar Spark es necesario subir el dataset en drive
+- Para usar META es necesario subir el dataset en drive así como los achivos "toml" los cuales deben estar en la raíz 
+  del directorio con el notebook de ejecución en python
