@@ -1,0 +1,8 @@
+class-label 0812.2709.txt
+class-label2 0811.2853.txt
+class-label3 0811.1254.txt
+class-label4 0808.0084.txt
+class-label5 0803.2570.txt
+class-label6 0710.0736.txt
+class-label7 0706.1402.txt
+class-label8 0704.3504.txt
