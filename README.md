@@ -11,9 +11,9 @@
 - María Camila García García
 
 **Descripción**
-El objetivo de este proyecto era que todos lo inegrantes aprendieramos y aplicaramos
-diferentes librerías para tokenizar y preparar, remoción de stopwords, remoción/reemplazo de
-caracteres especiales, procesos de de stemming y lemmatization.
+El objetivo de este proyecto era que aprendieramos y aplicaramos
+diferentes librerías para tokenizar, preparar, remover stopwords, reemplazar
+caracteres especiales, realizar procesos de de stemming y lemmatization.
 Además, se buscaba que aprendieramos y aplicaramos diferentes técnicas de representación de características como
 one-bit encoding, TF, TF-IDF, BM25.
 Finalmente, se buscaba implementar técnicas de representación de documentos,
@@ -21,7 +21,7 @@ principalmente en Modelo de Espacio Vectorial (VSM).
 
 **Librerías utilizadas**
 
-NLTK, Spark y META.
+Se hizo la implementación tanto en NLTK, Spark y MetaPy.
 
 # **Pre _requisitos**
 
